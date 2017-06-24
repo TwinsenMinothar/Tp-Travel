@@ -1,2 +1,2 @@
-This is a simple terminal c begginer program for organize travels and clients.
+This is a simple terminal C begginer program to organize travels and clients.
 Use as your whish.
